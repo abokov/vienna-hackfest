@@ -1,0 +1,1142 @@
+[
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/abokov/providers/Microsoft.ClassicStorage/storageAccounts/helsinki2classic",
+    "name": "helsinki2classic",
+    "type": "Microsoft.ClassicStorage/storageAccounts",
+    "location": "northeurope"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/abokov/providers/Microsoft.Network/networkInterfaces/abokov489",
+    "name": "abokov489",
+    "type": "Microsoft.Network/networkInterfaces",
+    "location": "eastus"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/abokov/providers/Microsoft.Network/networkInterfaces/mmakarov221",
+    "name": "mmakarov221",
+    "type": "Microsoft.Network/networkInterfaces",
+    "location": "westeurope"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/abokov/providers/Microsoft.Network/networkInterfaces/mmakarov-linux186",
+    "name": "mmakarov-linux186",
+    "type": "Microsoft.Network/networkInterfaces",
+    "location": "northeurope"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/abokov/providers/Microsoft.Network/networkInterfaces/mmakarov-linux421",
+    "name": "mmakarov-linux421",
+    "type": "Microsoft.Network/networkInterfaces",
+    "location": "eastus"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/abokov/providers/Microsoft.Network/networkInterfaces/mmakarov-linux534",
+    "name": "mmakarov-linux534",
+    "type": "Microsoft.Network/networkInterfaces",
+    "location": "westeurope"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/abokov/providers/Microsoft.Network/networkSecurityGroups/abokov",
+    "name": "abokov",
+    "type": "Microsoft.Network/networkSecurityGroups",
+    "location": "eastus"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/abokov/providers/Microsoft.Network/networkSecurityGroups/mmakarov",
+    "name": "mmakarov",
+    "type": "Microsoft.Network/networkSecurityGroups",
+    "location": "westeurope"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/abokov/providers/Microsoft.Network/networkSecurityGroups/mmakarov-linux",
+    "name": "mmakarov-linux",
+    "type": "Microsoft.Network/networkSecurityGroups",
+    "location": "eastus"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/abokov/providers/Microsoft.Network/networkSecurityGroups/mmakarovlinux6587",
+    "name": "mmakarovlinux6587",
+    "type": "Microsoft.Network/networkSecurityGroups",
+    "location": "northeurope"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/abokov/providers/Microsoft.Network/networkSecurityGroups/mmakarovlinux9340",
+    "name": "mmakarovlinux9340",
+    "type": "Microsoft.Network/networkSecurityGroups",
+    "location": "westeurope"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/abokov/providers/Microsoft.Network/publicIPAddresses/abokov",
+    "name": "abokov",
+    "type": "Microsoft.Network/publicIPAddresses",
+    "location": "eastus"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/abokov/providers/Microsoft.Network/publicIPAddresses/mmakarov",
+    "name": "mmakarov",
+    "type": "Microsoft.Network/publicIPAddresses",
+    "location": "westeurope"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/abokov/providers/Microsoft.Network/publicIPAddresses/mmakarov-linux",
+    "name": "mmakarov-linux",
+    "type": "Microsoft.Network/publicIPAddresses",
+    "location": "eastus"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/abokov/providers/Microsoft.Network/publicIPAddresses/mmakarovlinux2949",
+    "name": "mmakarovlinux2949",
+    "type": "Microsoft.Network/publicIPAddresses",
+    "location": "westeurope"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/abokov/providers/Microsoft.Network/publicIPAddresses/mmakarovlinux9292",
+    "name": "mmakarovlinux9292",
+    "type": "Microsoft.Network/publicIPAddresses",
+    "location": "northeurope"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/abokov/providers/Microsoft.Network/virtualNetworks/abokov",
+    "name": "abokov",
+    "type": "Microsoft.Network/virtualNetworks",
+    "location": "eastus"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/abokov/providers/Microsoft.Network/virtualNetworks/abokov8736",
+    "name": "abokov8736",
+    "type": "Microsoft.Network/virtualNetworks",
+    "location": "westeurope"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/abokov/providers/Microsoft.Network/virtualNetworks/abokov9990",
+    "name": "abokov9990",
+    "type": "Microsoft.Network/virtualNetworks",
+    "location": "northeurope"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/abokov/providers/Microsoft.Storage/storageAccounts/abokov8730",
+    "name": "abokov8730",
+    "type": "Microsoft.Storage/storageAccounts",
+    "location": "westeurope",
+    "tags": {}
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/abokov/providers/Microsoft.Storage/storageAccounts/abokov8896",
+    "name": "abokov8896",
+    "type": "Microsoft.Storage/storageAccounts",
+    "location": "eastus"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/abokov/providers/Microsoft.Storage/storageAccounts/abokov9179",
+    "name": "abokov9179",
+    "type": "Microsoft.Storage/storageAccounts",
+    "location": "northeurope",
+    "tags": {}
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/abokov-ws2012/providers/Microsoft.ClassicCompute/domainNames/abokov-ws2012",
+    "name": "abokov-ws2012",
+    "type": "Microsoft.ClassicCompute/domainNames",
+    "location": "centralus"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/CS-WebJobs-NorthCentralUS-scheduler/providers/Microsoft.Scheduler/jobcollections/WebJobs-NorthCentralUS",
+    "name": "WebJobs-NorthCentralUS",
+    "type": "Microsoft.Scheduler/jobcollections",
+    "location": "northcentralus"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/Default-ClearDB-WestEurope/providers/SuccessBricks.ClearDB/databases/mywordpAqAy7Tpl0",
+    "name": "mywordpAqAy7Tpl0",
+    "type": "SuccessBricks.ClearDB/databases",
+    "location": "westeurope",
+    "tags": {}
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/Default-ServiceBus-CentralUS/providers/Microsoft.ServiceBus/namespaces/kiev-space",
+    "name": "kiev-space",
+    "type": "Microsoft.ServiceBus/namespaces",
+    "location": "centralus",
+    "tags": {},
+    "kind": "Messaging",
+    "sku": {
+      "name": "Standard",
+      "tier": "Standard"
+    }
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/Default-SQL-WestUS/providers/Microsoft.Sql/servers/uh78ac5lap",
+    "name": "uh78ac5lap",
+    "type": "Microsoft.Sql/servers",
+    "location": "westus",
+    "kind": "v12.0"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/Default-SQL-WestUS/providers/Microsoft.Sql/servers/uh78ac5lap/databases/master",
+    "name": "uh78ac5lap/master",
+    "type": "Microsoft.Sql/servers/databases",
+    "location": "westus",
+    "kind": "v12.0,system"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/Default-Storage-CentralUS/providers/Microsoft.ClassicStorage/storageAccounts/portalvhdsss2nvwf9b193c",
+    "name": "portalvhdsss2nvwf9b193c",
+    "type": "Microsoft.ClassicStorage/storageAccounts",
+    "location": "centralus"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/Default-Storage-EastUS/providers/Microsoft.ClassicStorage/storageAccounts/community41363c104fdabdc",
+    "name": "community41363c104fdabdc",
+    "type": "Microsoft.ClassicStorage/storageAccounts",
+    "location": "eastus"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/Default-Storage-EastUS/providers/Microsoft.ClassicStorage/storageAccounts/portalvhds8t4gf4m833kgl",
+    "name": "portalvhds8t4gf4m833kgl",
+    "type": "Microsoft.ClassicStorage/storageAccounts",
+    "location": "eastus"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/Default-Storage-NorthEurope/providers/Microsoft.ClassicStorage/storageAccounts/tesselk",
+    "name": "tesselk",
+    "type": "Microsoft.ClassicStorage/storageAccounts",
+    "location": "northeurope"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/Default-Storage-SouthCentralUS/providers/Microsoft.ClassicStorage/storageAccounts/portalvhdsy8l1gt2ddv3p8",
+    "name": "portalvhdsy8l1gt2ddv3p8",
+    "type": "Microsoft.ClassicStorage/storageAccounts",
+    "location": "southcentralus"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/Default-Storage-WestEurope/providers/Microsoft.ClassicStorage/storageAccounts/govhdinsightstoragedemo",
+    "name": "govhdinsightstoragedemo",
+    "type": "Microsoft.ClassicStorage/storageAccounts",
+    "location": "westeurope"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/Default-Storage-WestEurope/providers/Microsoft.ClassicStorage/storageAccounts/govimagesblobstorage",
+    "name": "govimagesblobstorage",
+    "type": "Microsoft.ClassicStorage/storageAccounts",
+    "location": "westeurope"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/Default-Storage-WestEurope/providers/Microsoft.ClassicStorage/storageAccounts/govstorage",
+    "name": "govstorage",
+    "type": "Microsoft.ClassicStorage/storageAccounts",
+    "location": "westeurope"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/Default-Storage-WestEurope/providers/Microsoft.ClassicStorage/storageAccounts/portalvhdskc58ykk3rqvyq",
+    "name": "portalvhdskc58ykk3rqvyq",
+    "type": "Microsoft.ClassicStorage/storageAccounts",
+    "location": "westeurope"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/Default-Storage-WestUS/providers/Microsoft.ClassicStorage/storageAccounts/portalvhdswjzhf41rkbqp",
+    "name": "portalvhdswjzhf41rkbqp",
+    "type": "Microsoft.ClassicStorage/storageAccounts",
+    "location": "westus"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/Default-Web-NorthCentralUS/providers/microsoft.insights/components/abokov1",
+    "name": "abokov1",
+    "type": "microsoft.insights/components",
+    "location": "centralus",
+    "tags": {
+      "applicationType": "web",
+      "hidden-link:/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourcegroups/Default-Web-NorthCentralUS/providers/microsoft.web/sites/abokov1": "Resource"
+    },
+    "kind": "web"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/Default-Web-NorthCentralUS/providers/Microsoft.Web/serverFarms/Default1",
+    "name": "Default1",
+    "type": "Microsoft.Web/serverFarms",
+    "location": "northcentralus"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/Default-Web-SouthCentralUS/providers/microsoft.insights/components/abokov-test",
+    "name": "abokov-test",
+    "type": "microsoft.insights/components",
+    "location": "centralus",
+    "tags": {
+      "hidden-link:/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/Default-Web-SouthCentralUS/providers/microsoft.web/sites/abokov-test": "Resource",
+      "Source": "AzureV1"
+    },
+    "kind": "Web"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/Default-Web-SouthCentralUS/providers/microsoft.insights/components/abokov-test2",
+    "name": "abokov-test2",
+    "type": "microsoft.insights/components",
+    "location": "centralus",
+    "tags": {
+      "hidden-link:/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/Default-Web-SouthCentralUS/providers/microsoft.web/sites/abokov-test2": "Resource",
+      "Source": "AzureV1"
+    },
+    "kind": "Web"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/Default-Web-SouthCentralUS/providers/microsoft.insights/components/yeyeyey(ueueueueue)",
+    "name": "yeyeyey(ueueueueue)",
+    "type": "microsoft.insights/components",
+    "location": "centralus",
+    "tags": {
+      "applicationType": "web",
+      "hidden-link:/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourcegroups/Default-Web-SouthCentralUS/providers/microsoft.web/sites/yeyeyey(ueueueueue)": "Resource"
+    },
+    "kind": "web"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/Default-Web-SouthCentralUS/providers/Microsoft.Web/serverFarms/Default1",
+    "name": "Default1",
+    "type": "Microsoft.Web/serverFarms",
+    "location": "southcentralus"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/Default-Web-WestEurope/providers/microsoft.insights/components/topconf-ro",
+    "name": "topconf-ro",
+    "type": "microsoft.insights/components",
+    "location": "centralus",
+    "tags": {
+      "hidden-link:/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/Default-Web-WestEurope/providers/microsoft.web/sites/topconf-ro": "Resource",
+      "Link:/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/Default-Web-WestEurope/providers/microsoft.web/sites/topconf-ro": "Resource",
+      "Source": "AzureV1"
+    },
+    "kind": ""
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/docker/providers/Microsoft.Logic/workflows/dockerupdate2",
+    "name": "dockerupdate2",
+    "type": "Microsoft.Logic/workflows",
+    "location": "northcentralus"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/docker/providers/Microsoft.Web/connections/twitter",
+    "name": "twitter",
+    "type": "Microsoft.Web/connections",
+    "location": "northcentralus"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/docker/providers/Microsoft.Web/serverFarms/ServicePlan",
+    "name": "ServicePlan",
+    "type": "Microsoft.Web/serverFarms",
+    "location": "northcentralus"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/Docker7/providers/Microsoft.Logic/workflows/DockerUpdade2",
+    "name": "DockerUpdade2",
+    "type": "Microsoft.Logic/workflows",
+    "location": "northcentralus"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/Docker7/providers/Microsoft.Web/serverFarms/ServicePlan",
+    "name": "ServicePlan",
+    "type": "Microsoft.Web/serverFarms",
+    "location": "northcentralus"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/DockerUpdateRG/providers/Microsoft.Logic/workflows/DockerUpdate",
+    "name": "DockerUpdate",
+    "type": "Microsoft.Logic/workflows",
+    "location": "westus"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/DockerUpdateRG/providers/Microsoft.Web/connections/twitter",
+    "name": "twitter",
+    "type": "Microsoft.Web/connections",
+    "location": "westus"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/DockerUpdateRG/providers/Microsoft.Web/serverFarms/DockerUpdatePlan",
+    "name": "DockerUpdatePlan",
+    "type": "Microsoft.Web/serverFarms",
+    "location": "westus"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/eset-test/providers/Microsoft.Network/loadBalancers/LB-eset-test-esetprim",
+    "name": "LB-eset-test-esetprim",
+    "type": "Microsoft.Network/loadBalancers",
+    "location": "northeurope",
+    "tags": {
+      "resourceType": "Service Fabric",
+      "clusterName": "eset-test"
+    }
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/eset-test/providers/Microsoft.Network/loadBalancers/LB-eset-test-esetsec",
+    "name": "LB-eset-test-esetsec",
+    "type": "Microsoft.Network/loadBalancers",
+    "location": "northeurope",
+    "tags": {
+      "resourceType": "Service Fabric",
+      "clusterName": "eset-test"
+    }
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/eset-test/providers/Microsoft.Network/publicIPAddresses/LBIP-eset-test-0",
+    "name": "LBIP-eset-test-0",
+    "type": "Microsoft.Network/publicIPAddresses",
+    "location": "northeurope",
+    "tags": {
+      "resourceType": "Service Fabric",
+      "clusterName": "eset-test"
+    }
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/eset-test/providers/Microsoft.Network/publicIPAddresses/LBIP-eset-test-1",
+    "name": "LBIP-eset-test-1",
+    "type": "Microsoft.Network/publicIPAddresses",
+    "location": "northeurope",
+    "tags": {
+      "resourceType": "Service Fabric",
+      "clusterName": "eset-test"
+    }
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/eset-test/providers/Microsoft.Network/virtualNetworks/VNet-eset-test",
+    "name": "VNet-eset-test",
+    "type": "Microsoft.Network/virtualNetworks",
+    "location": "northeurope",
+    "tags": {
+      "resourceType": "Service Fabric",
+      "clusterName": "eset-test"
+    }
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/eset-test/providers/Microsoft.Storage/storageAccounts/sfdgesettest5668",
+    "name": "sfdgesettest5668",
+    "type": "Microsoft.Storage/storageAccounts",
+    "location": "northeurope",
+    "tags": {
+      "clusterName": "eset-test",
+      "resourceType": "Service Fabric"
+    },
+    "kind": "Storage",
+    "sku": {
+      "name": "Standard_LRS",
+      "tier": "Standard"
+    }
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/eset-test/providers/Microsoft.Storage/storageAccounts/sflogsesettest9472",
+    "name": "sflogsesettest9472",
+    "type": "Microsoft.Storage/storageAccounts",
+    "location": "northeurope",
+    "tags": {
+      "clusterName": "eset-test",
+      "resourceType": "Service Fabric"
+    },
+    "kind": "Storage",
+    "sku": {
+      "name": "Standard_LRS",
+      "tier": "Standard"
+    }
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/eset-test/providers/Microsoft.Storage/storageAccounts/vdfwiwrgknars100",
+    "name": "vdfwiwrgknars100",
+    "type": "Microsoft.Storage/storageAccounts",
+    "location": "northeurope",
+    "tags": {
+      "clusterName": "eset-test",
+      "resourceType": "Service Fabric"
+    },
+    "kind": "Storage",
+    "sku": {
+      "name": "Standard_LRS",
+      "tier": "Standard"
+    }
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/eset-test/providers/Microsoft.Storage/storageAccounts/vdfwiwrgknars101",
+    "name": "vdfwiwrgknars101",
+    "type": "Microsoft.Storage/storageAccounts",
+    "location": "northeurope",
+    "tags": {
+      "clusterName": "eset-test",
+      "resourceType": "Service Fabric"
+    },
+    "kind": "Storage",
+    "sku": {
+      "name": "Standard_LRS",
+      "tier": "Standard"
+    }
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/eset-test/providers/Microsoft.Storage/storageAccounts/vdfwiwrgknars102",
+    "name": "vdfwiwrgknars102",
+    "type": "Microsoft.Storage/storageAccounts",
+    "location": "northeurope",
+    "tags": {
+      "clusterName": "eset-test",
+      "resourceType": "Service Fabric"
+    },
+    "kind": "Storage",
+    "sku": {
+      "name": "Standard_LRS",
+      "tier": "Standard"
+    }
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/eset-test/providers/Microsoft.Storage/storageAccounts/vdfwiwrgknars103",
+    "name": "vdfwiwrgknars103",
+    "type": "Microsoft.Storage/storageAccounts",
+    "location": "northeurope",
+    "tags": {
+      "clusterName": "eset-test",
+      "resourceType": "Service Fabric"
+    },
+    "kind": "Storage",
+    "sku": {
+      "name": "Standard_LRS",
+      "tier": "Standard"
+    }
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/eset-test/providers/Microsoft.Storage/storageAccounts/vdfwiwrgknars104",
+    "name": "vdfwiwrgknars104",
+    "type": "Microsoft.Storage/storageAccounts",
+    "location": "northeurope",
+    "tags": {
+      "clusterName": "eset-test",
+      "resourceType": "Service Fabric"
+    },
+    "kind": "Storage",
+    "sku": {
+      "name": "Standard_LRS",
+      "tier": "Standard"
+    }
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/eset-test/providers/Microsoft.Storage/storageAccounts/vdfwiwrgknars110",
+    "name": "vdfwiwrgknars110",
+    "type": "Microsoft.Storage/storageAccounts",
+    "location": "northeurope",
+    "tags": {
+      "clusterName": "eset-test",
+      "resourceType": "Service Fabric"
+    },
+    "kind": "Storage",
+    "sku": {
+      "name": "Standard_LRS",
+      "tier": "Standard"
+    }
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/eset-test/providers/Microsoft.Storage/storageAccounts/vdfwiwrgknars111",
+    "name": "vdfwiwrgknars111",
+    "type": "Microsoft.Storage/storageAccounts",
+    "location": "northeurope",
+    "tags": {
+      "clusterName": "eset-test",
+      "resourceType": "Service Fabric"
+    },
+    "kind": "Storage",
+    "sku": {
+      "name": "Standard_LRS",
+      "tier": "Standard"
+    }
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/eset-test/providers/Microsoft.Storage/storageAccounts/vdfwiwrgknars112",
+    "name": "vdfwiwrgknars112",
+    "type": "Microsoft.Storage/storageAccounts",
+    "location": "northeurope",
+    "tags": {
+      "clusterName": "eset-test",
+      "resourceType": "Service Fabric"
+    },
+    "kind": "Storage",
+    "sku": {
+      "name": "Standard_LRS",
+      "tier": "Standard"
+    }
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/eset-test/providers/Microsoft.Storage/storageAccounts/vdfwiwrgknars113",
+    "name": "vdfwiwrgknars113",
+    "type": "Microsoft.Storage/storageAccounts",
+    "location": "northeurope",
+    "tags": {
+      "clusterName": "eset-test",
+      "resourceType": "Service Fabric"
+    },
+    "kind": "Storage",
+    "sku": {
+      "name": "Standard_LRS",
+      "tier": "Standard"
+    }
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/eset-test/providers/Microsoft.Storage/storageAccounts/vdfwiwrgknars114",
+    "name": "vdfwiwrgknars114",
+    "type": "Microsoft.Storage/storageAccounts",
+    "location": "northeurope",
+    "tags": {
+      "clusterName": "eset-test",
+      "resourceType": "Service Fabric"
+    },
+    "kind": "Storage",
+    "sku": {
+      "name": "Standard_LRS",
+      "tier": "Standard"
+    }
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/Group/providers/Microsoft.ClassicNetwork/virtualNetworks/abokov-jelastic",
+    "name": "abokov-jelastic",
+    "type": "Microsoft.ClassicNetwork/virtualNetworks",
+    "location": "centralus"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/Group/providers/Microsoft.ClassicStorage/storageAccounts/abokovjelasti",
+    "name": "abokovjelasti",
+    "type": "Microsoft.ClassicStorage/storageAccounts",
+    "location": "centralus"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/Group-1/providers/Microsoft.ClassicCompute/domainNames/jelastic100",
+    "name": "jelastic100",
+    "type": "Microsoft.ClassicCompute/domainNames",
+    "location": "centralus"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/Group-1/providers/Microsoft.ClassicNetwork/virtualNetworks/jelastic100",
+    "name": "jelastic100",
+    "type": "Microsoft.ClassicNetwork/virtualNetworks",
+    "location": "centralus"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/Group-1/providers/Microsoft.ClassicStorage/storageAccounts/jelastic100",
+    "name": "jelastic100",
+    "type": "Microsoft.ClassicStorage/storageAccounts",
+    "location": "centralus"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/Group-2/providers/Microsoft.ClassicCompute/domainNames/jelastic101",
+    "name": "jelastic101",
+    "type": "Microsoft.ClassicCompute/domainNames",
+    "location": "centralus"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/Group-2/providers/Microsoft.ClassicNetwork/virtualNetworks/jelastic101",
+    "name": "jelastic101",
+    "type": "Microsoft.ClassicNetwork/virtualNetworks",
+    "location": "centralus"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/Group-2/providers/Microsoft.ClassicStorage/storageAccounts/jelastic101",
+    "name": "jelastic101",
+    "type": "Microsoft.ClassicStorage/storageAccounts",
+    "location": "centralus"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/Group-3/providers/Microsoft.ClassicNetwork/virtualNetworks/test",
+    "name": "test",
+    "type": "Microsoft.ClassicNetwork/virtualNetworks",
+    "location": "centralus"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/Group-3/providers/Microsoft.ClassicStorage/storageAccounts/test6163t383",
+    "name": "test6163t383",
+    "type": "Microsoft.ClassicStorage/storageAccounts",
+    "location": "centralus"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/Group-4/providers/Microsoft.ClassicNetwork/virtualNetworks/mmakarov-classic",
+    "name": "mmakarov-classic",
+    "type": "Microsoft.ClassicNetwork/virtualNetworks",
+    "location": "westeurope"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/Group-4/providers/Microsoft.ClassicStorage/storageAccounts/mmakarovclas",
+    "name": "mmakarovclas",
+    "type": "Microsoft.ClassicStorage/storageAccounts",
+    "location": "westeurope"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/Group-5/providers/Microsoft.ClassicNetwork/virtualNetworks/ted-hackfest",
+    "name": "ted-hackfest",
+    "type": "Microsoft.ClassicNetwork/virtualNetworks",
+    "location": "eastus"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/Group-5/providers/Microsoft.ClassicStorage/storageAccounts/tedhackfest",
+    "name": "tedhackfest",
+    "type": "Microsoft.ClassicStorage/storageAccounts",
+    "location": "eastus"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/hackfest2015/providers/Microsoft.ClassicCompute/domainNames/hackfest2015",
+    "name": "hackfest2015",
+    "type": "Microsoft.ClassicCompute/domainNames",
+    "location": "westus"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/mmakarov/providers/Microsoft.ClassicCompute/domainNames/mmakarov",
+    "name": "mmakarov",
+    "type": "Microsoft.ClassicCompute/domainNames",
+    "location": "westeurope"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/mmakarov/providers/Microsoft.ClassicNetwork/virtualNetworks/mmakarov",
+    "name": "mmakarov",
+    "type": "Microsoft.ClassicNetwork/virtualNetworks",
+    "location": "westeurope"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/mmakarov/providers/Microsoft.ClassicStorage/storageAccounts/mmakarov",
+    "name": "mmakarov",
+    "type": "Microsoft.ClassicStorage/storageAccounts",
+    "location": "westeurope"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/mmakarov/providers/Microsoft.Network/networkInterfaces/mmakarov164",
+    "name": "mmakarov164",
+    "type": "Microsoft.Network/networkInterfaces",
+    "location": "westeurope"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/mmakarov/providers/Microsoft.Network/networkInterfaces/mmakarov422",
+    "name": "mmakarov422",
+    "type": "Microsoft.Network/networkInterfaces",
+    "location": "westeurope"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/mmakarov/providers/Microsoft.Network/networkInterfaces/mmakarov702",
+    "name": "mmakarov702",
+    "type": "Microsoft.Network/networkInterfaces",
+    "location": "westeurope"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/mmakarov/providers/Microsoft.Network/networkInterfaces/mmakarov-arm692",
+    "name": "mmakarov-arm692",
+    "type": "Microsoft.Network/networkInterfaces",
+    "location": "westeurope"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/mmakarov/providers/Microsoft.Network/networkInterfaces/mmakarov-linux264",
+    "name": "mmakarov-linux264",
+    "type": "Microsoft.Network/networkInterfaces",
+    "location": "westeurope"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/mmakarov/providers/Microsoft.Network/networkInterfaces/mmakarov-ubuntu813",
+    "name": "mmakarov-ubuntu813",
+    "type": "Microsoft.Network/networkInterfaces",
+    "location": "westeurope"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/mmakarov/providers/Microsoft.Network/networkInterfaces/mmakarovw2012dc626",
+    "name": "mmakarovw2012dc626",
+    "type": "Microsoft.Network/networkInterfaces",
+    "location": "westeurope"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/mmakarov/providers/Microsoft.Network/networkSecurityGroups/mmakarov",
+    "name": "mmakarov",
+    "type": "Microsoft.Network/networkSecurityGroups",
+    "location": "westeurope"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/mmakarov/providers/Microsoft.Network/networkSecurityGroups/mmakarov5183",
+    "name": "mmakarov5183",
+    "type": "Microsoft.Network/networkSecurityGroups",
+    "location": "westeurope"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/mmakarov/providers/Microsoft.Network/networkSecurityGroups/mmakarov5642",
+    "name": "mmakarov5642",
+    "type": "Microsoft.Network/networkSecurityGroups",
+    "location": "westeurope"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/mmakarov/providers/Microsoft.Network/networkSecurityGroups/mmakarov-arm",
+    "name": "mmakarov-arm",
+    "type": "Microsoft.Network/networkSecurityGroups",
+    "location": "westeurope"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/mmakarov/providers/Microsoft.Network/networkSecurityGroups/mmakarov-linux",
+    "name": "mmakarov-linux",
+    "type": "Microsoft.Network/networkSecurityGroups",
+    "location": "westeurope"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/mmakarov/providers/Microsoft.Network/networkSecurityGroups/mmakarov-ubuntu",
+    "name": "mmakarov-ubuntu",
+    "type": "Microsoft.Network/networkSecurityGroups",
+    "location": "westeurope"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/mmakarov/providers/Microsoft.Network/networkSecurityGroups/mmakarovW2012dc",
+    "name": "mmakarovW2012dc",
+    "type": "Microsoft.Network/networkSecurityGroups",
+    "location": "westeurope"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/mmakarov/providers/Microsoft.Network/publicIPAddresses/mmakarov",
+    "name": "mmakarov",
+    "type": "Microsoft.Network/publicIPAddresses",
+    "location": "westeurope"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/mmakarov/providers/Microsoft.Network/publicIPAddresses/mmakarov6879",
+    "name": "mmakarov6879",
+    "type": "Microsoft.Network/publicIPAddresses",
+    "location": "westeurope"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/mmakarov/providers/Microsoft.Network/publicIPAddresses/mmakarov7577",
+    "name": "mmakarov7577",
+    "type": "Microsoft.Network/publicIPAddresses",
+    "location": "westeurope"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/mmakarov/providers/Microsoft.Network/publicIPAddresses/mmakarov-arm",
+    "name": "mmakarov-arm",
+    "type": "Microsoft.Network/publicIPAddresses",
+    "location": "westeurope"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/mmakarov/providers/Microsoft.Network/publicIPAddresses/mmakarov-linux",
+    "name": "mmakarov-linux",
+    "type": "Microsoft.Network/publicIPAddresses",
+    "location": "westeurope"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/mmakarov/providers/Microsoft.Network/publicIPAddresses/mmakarov-ubuntu",
+    "name": "mmakarov-ubuntu",
+    "type": "Microsoft.Network/publicIPAddresses",
+    "location": "westeurope"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/mmakarov/providers/Microsoft.Network/publicIPAddresses/mmakarovW2012dc",
+    "name": "mmakarovW2012dc",
+    "type": "Microsoft.Network/publicIPAddresses",
+    "location": "westeurope"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/mmakarov/providers/Microsoft.Network/virtualNetworks/mmakarov",
+    "name": "mmakarov",
+    "type": "Microsoft.Network/virtualNetworks",
+    "location": "westeurope"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/mmakarov/providers/Microsoft.Network/virtualNetworks/mmakarov1210",
+    "name": "mmakarov1210",
+    "type": "Microsoft.Network/virtualNetworks",
+    "location": "westeurope"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/mmakarov/providers/Microsoft.Network/virtualNetworks/mmakarov9113",
+    "name": "mmakarov9113",
+    "type": "Microsoft.Network/virtualNetworks",
+    "location": "westeurope"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/mmakarov/providers/Microsoft.Network/virtualNetworks/mmakarov9826",
+    "name": "mmakarov9826",
+    "type": "Microsoft.Network/virtualNetworks",
+    "location": "westeurope"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/mmakarov/providers/Microsoft.Storage/storageAccounts/mmakarov16",
+    "name": "mmakarov16",
+    "type": "Microsoft.Storage/storageAccounts",
+    "location": "westeurope",
+    "tags": {}
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/mmakarov/providers/Microsoft.Storage/storageAccounts/mmakarov4113",
+    "name": "mmakarov4113",
+    "type": "Microsoft.Storage/storageAccounts",
+    "location": "westeurope",
+    "tags": {}
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/mmakarov/providers/Microsoft.Storage/storageAccounts/mmakarov4638",
+    "name": "mmakarov4638",
+    "type": "Microsoft.Storage/storageAccounts",
+    "location": "westeurope",
+    "tags": {}
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/mmakarov/providers/Microsoft.Storage/storageAccounts/mmakarov5655",
+    "name": "mmakarov5655",
+    "type": "Microsoft.Storage/storageAccounts",
+    "location": "westeurope",
+    "tags": {}
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/mmakarov/providers/Microsoft.Storage/storageAccounts/mmakarov6511",
+    "name": "mmakarov6511",
+    "type": "Microsoft.Storage/storageAccounts",
+    "location": "westeurope",
+    "tags": {}
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/mmakarov1/providers/Microsoft.Network/networkInterfaces/mmakarov1282",
+    "name": "mmakarov1282",
+    "type": "Microsoft.Network/networkInterfaces",
+    "location": "westeurope"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/mmakarov1/providers/Microsoft.Network/networkSecurityGroups/mmakarov1",
+    "name": "mmakarov1",
+    "type": "Microsoft.Network/networkSecurityGroups",
+    "location": "westeurope"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/mmakarov1/providers/Microsoft.Network/publicIPAddresses/mmakarov1",
+    "name": "mmakarov1",
+    "type": "Microsoft.Network/publicIPAddresses",
+    "location": "westeurope"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/mmakarov1/providers/Microsoft.Network/virtualNetworks/mmakarov1",
+    "name": "mmakarov1",
+    "type": "Microsoft.Network/virtualNetworks",
+    "location": "westeurope"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/mmakarov1/providers/Microsoft.Storage/storageAccounts/mmakarov14899",
+    "name": "mmakarov14899",
+    "type": "Microsoft.Storage/storageAccounts",
+    "location": "westeurope",
+    "tags": {}
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/mmkarov/providers/Microsoft.Network/networkInterfaces/mmakarov249",
+    "name": "mmakarov249",
+    "type": "Microsoft.Network/networkInterfaces",
+    "location": "westeurope"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/mmkarov/providers/Microsoft.Network/networkSecurityGroups/mmakarov",
+    "name": "mmakarov",
+    "type": "Microsoft.Network/networkSecurityGroups",
+    "location": "westeurope"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/mmkarov/providers/Microsoft.Network/publicIPAddresses/mmakarov",
+    "name": "mmakarov",
+    "type": "Microsoft.Network/publicIPAddresses",
+    "location": "westeurope"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/mmkarov/providers/Microsoft.Network/virtualNetworks/mmkarov",
+    "name": "mmkarov",
+    "type": "Microsoft.Network/virtualNetworks",
+    "location": "westeurope"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/mmkarov/providers/Microsoft.Storage/storageAccounts/mmkarov6473",
+    "name": "mmkarov6473",
+    "type": "Microsoft.Storage/storageAccounts",
+    "location": "westeurope",
+    "tags": {}
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/my-service/providers/Microsoft.ClassicCompute/domainNames/my-service",
+    "name": "my-service",
+    "type": "Microsoft.ClassicCompute/domainNames",
+    "location": "centralus"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/Networking/providers/Microsoft.Network/dnszones/azure.powershell.no",
+    "name": "azure.powershell.no",
+    "type": "Microsoft.Network/dnszones",
+    "location": "global"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/Networking/providers/Microsoft.Network/dnszones/cloudtechnologies.ru",
+    "name": "cloudtechnologies.ru",
+    "type": "Microsoft.Network/dnszones",
+    "location": "global"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/new/providers/Microsoft.Network/networkInterfaces/win2012r2dr44",
+    "name": "win2012r2dr44",
+    "type": "Microsoft.Network/networkInterfaces",
+    "location": "westeurope"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/new/providers/Microsoft.Network/networkInterfaces/windows2012r2379",
+    "name": "windows2012r2379",
+    "type": "Microsoft.Network/networkInterfaces",
+    "location": "eastus"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/new/providers/Microsoft.Network/networkSecurityGroups/win2012r2DR",
+    "name": "win2012r2DR",
+    "type": "Microsoft.Network/networkSecurityGroups",
+    "location": "westeurope"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/new/providers/Microsoft.Network/networkSecurityGroups/windows2012R2",
+    "name": "windows2012R2",
+    "type": "Microsoft.Network/networkSecurityGroups",
+    "location": "eastus"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/new/providers/Microsoft.Network/publicIPAddresses/win2012r2DR",
+    "name": "win2012r2DR",
+    "type": "Microsoft.Network/publicIPAddresses",
+    "location": "westeurope"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/new/providers/Microsoft.Network/publicIPAddresses/windows2012R2",
+    "name": "windows2012R2",
+    "type": "Microsoft.Network/publicIPAddresses",
+    "location": "eastus"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/new/providers/Microsoft.Network/virtualNetworks/new",
+    "name": "new",
+    "type": "Microsoft.Network/virtualNetworks",
+    "location": "eastus"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/new/providers/Microsoft.Network/virtualNetworks/new6260",
+    "name": "new6260",
+    "type": "Microsoft.Network/virtualNetworks",
+    "location": "westeurope"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/new/providers/Microsoft.Storage/storageAccounts/new2619",
+    "name": "new2619",
+    "type": "Microsoft.Storage/storageAccounts",
+    "location": "westeurope",
+    "tags": {}
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/new/providers/Microsoft.Storage/storageAccounts/new3940",
+    "name": "new3940",
+    "type": "Microsoft.Storage/storageAccounts",
+    "location": "eastus",
+    "tags": {}
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/new/providers/Microsoft.Storage/storageAccounts/new6767",
+    "name": "new6767",
+    "type": "Microsoft.Storage/storageAccounts",
+    "location": "westeurope",
+    "tags": {}
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/nginx/providers/Microsoft.ClassicNetwork/virtualNetworks/nginx",
+    "name": "nginx",
+    "type": "Microsoft.ClassicNetwork/virtualNetworks",
+    "location": "northeurope"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/nginx/providers/Microsoft.ClassicStorage/storageAccounts/nginx3718",
+    "name": "nginx3718",
+    "type": "Microsoft.ClassicStorage/storageAccounts",
+    "location": "northeurope"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/nginx-rg/providers/Microsoft.Network/networkInterfaces/nginx-plus-vm416",
+    "name": "nginx-plus-vm416",
+    "type": "Microsoft.Network/networkInterfaces",
+    "location": "eastus"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/nginx-rg/providers/Microsoft.Network/networkSecurityGroups/nginx-plus-vm",
+    "name": "nginx-plus-vm",
+    "type": "Microsoft.Network/networkSecurityGroups",
+    "location": "eastus"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/nginx-rg/providers/Microsoft.Network/publicIPAddresses/nginx-plus-vm",
+    "name": "nginx-plus-vm",
+    "type": "Microsoft.Network/publicIPAddresses",
+    "location": "eastus"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/nginx-rg/providers/Microsoft.Network/virtualNetworks/nginx-rg",
+    "name": "nginx-rg",
+    "type": "Microsoft.Network/virtualNetworks",
+    "location": "eastus"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/nginx-rg/providers/Microsoft.Storage/storageAccounts/nginxrg6649",
+    "name": "nginxrg6649",
+    "type": "Microsoft.Storage/storageAccounts",
+    "location": "eastus",
+    "tags": {}
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/rg/providers/Microsoft.Network/networkInterfaces/nginx-plus562",
+    "name": "nginx-plus562",
+    "type": "Microsoft.Network/networkInterfaces",
+    "location": "eastus"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/rg/providers/Microsoft.Network/networkSecurityGroups/nginx-plus",
+    "name": "nginx-plus",
+    "type": "Microsoft.Network/networkSecurityGroups",
+    "location": "eastus"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/rg/providers/Microsoft.Network/publicIPAddresses/nginx-plus",
+    "name": "nginx-plus",
+    "type": "Microsoft.Network/publicIPAddresses",
+    "location": "eastus"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/rg/providers/Microsoft.Network/virtualNetworks/rg",
+    "name": "rg",
+    "type": "Microsoft.Network/virtualNetworks",
+    "location": "eastus"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/rg/providers/Microsoft.Storage/storageAccounts/rg4950",
+    "name": "rg4950",
+    "type": "Microsoft.Storage/storageAccounts",
+    "location": "eastus",
+    "tags": {}
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/securitydata/providers/Microsoft.Storage/storageAccounts/c01861eastus",
+    "name": "c01861eastus",
+    "type": "Microsoft.Storage/storageAccounts",
+    "location": "eastus",
+    "tags": {}
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/securitydata/providers/Microsoft.Storage/storageAccounts/c01861northeurope",
+    "name": "c01861northeurope",
+    "type": "Microsoft.Storage/storageAccounts",
+    "location": "northeurope",
+    "tags": {}
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/securitydata/providers/Microsoft.Storage/storageAccounts/c01861westeurope",
+    "name": "c01861westeurope",
+    "type": "Microsoft.Storage/storageAccounts",
+    "location": "westeurope",
+    "tags": {}
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/test100/providers/Microsoft.ClassicStorage/storageAccounts/helsinki202020",
+    "name": "helsinki202020",
+    "type": "Microsoft.ClassicStorage/storageAccounts",
+    "location": "northeurope"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/test2gis/providers/Microsoft.ClassicCompute/domainNames/test2gis",
+    "name": "test2gis",
+    "type": "Microsoft.ClassicCompute/domainNames",
+    "location": "southcentralus"
+  },
+  {
+    "id": "/subscriptions/c09f1074-6e2e-45be-aeee-935d6642424d/resourceGroups/VS-abokov-Group/providers/Microsoft.VisualStudio/account/abokov/project/HelloWorld",
+    "name": "abokov/HelloWorld",
+    "type": "Microsoft.VisualStudio/account/project",
+    "location": "northcentralus"
+  }
+]
