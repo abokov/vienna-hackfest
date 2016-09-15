@@ -1,42 +1,59 @@
-#!/bin/bash
-
-echo "Getting resources list..."
-#output=`azure resource list --json`
+#echo "Getting resources list..."
+output=`azure resource list --json`
 #output=`cat out`
-output="$(< out)"
+#output="$(< out)"
 #echo $output
-echo "Parsing results..."
+#echo "Parsing results..."
 
 
 regions=$(echo $output | jq '.[] | .location ' | sort -u )
 regions_arr=($regions)
 types=$(echo $output | jq '.[] | .type '| sort -u)
+types_arr=($types)
 
 types_num=$(echo $output | jq '.[] | .type '| sort -u | wc -l)
-resources_num=$(echo $output | jq '.[] | .id ' | sort -u | wc -l)
+resources_num=$(echo $output | jq '.[] | .id ' | wc -l)
 
 echo "resources:" $resources_num ", types: " $types_num ""
 echo "Regions: "  $regions
-echo "Types=" $types
-
-
-echo "--- "
 for i in "${regions_arr[@]}"
 do
-#	echo $i
-#	t=$(sed -e 's/^"//' -e 's/"$//' <<< $i)
-	regional_resource_types=$(echo $output | jq '.[] | select(.location == '$i') | .type' | sort -u)
+	# list of unique resources from one location 
+	regional_resource_types=$(echo $output | jq '.[] | select(.location == '$i') | .type' | sort -u ) 
+        regional_resource_types_amount=$(echo $output | jq '.[] | select(.location == '$i') | .type' | wc -l ) 
+
+	echo " "
+	echo "Region = " $i ", amount of resources: " $regional_resource_types_amount 
+
+
+	# json recond of all resource types from one location
+	regional_resource_types_list=$(echo $output | jq '.[] | select(.location == '$i') ' ) 
+
 	regional_resource_types_arr=($regional_resource_types)
+
 	for j in "${regional_resource_types_arr[@]=}"
 	do
-#	        regional_resource_item_num=$(echo $regional_resource_types| jq '.[] | select(.type == \"'$j'\")' )
-		echo "resource type=" $j "(" $regional_resource_item_num ")"
+	        regional_resource_item_num=$(echo $regional_resource_types_list | jq 'select(.type == '$j') | .id ' | wc -l)
+		printf "%s%s%s%s\t" $j "(" $regional_resource_item_num ")"
 	done
-	echo "-------"
-        regional_resource_types_num=$(echo $output | jq '.[] | select(.location == '$i') | .type' | sort -u | wc -l)
-	echo "types:" $regional_resource_types
-	echo $regional_resource_types_num
-#	exit
-	echo "*****"
-   # do whatever on $i
+	echo ""
 done
+
+resources=""
+t=0
+echo ""
+for i in "${types_arr[@]=}"
+do
+        # list of unique resources from one location 
+        all_location_for_resources_of_that_type=$(echo $output | jq '.[] | select(.type == '$i') | .location ' )
+        all_location_for_resources_of_that_type_num=$(echo $output | jq '.[] | select(.type == '$i') | .location ' | wc -l)
+	resources[$t]=$i
+	resources[$t]+=$(printf " ")
+	resources[$t]+=$all_location_for_resources_of_that_type_num
+
+	t=$((t+1))
+done
+
+printf '%s\n' "${resources[@]}" | sort -k2 -n -r
+
+
