@@ -1,7 +1,7 @@
 #echo "Getting resources list..."
-#output=`azure resource list --json`
-output=`cat out`
-output="$(< out)"
+output=`azure resource list --json`
+#output=`cat out`
+#output="$(< out)"
 #echo $output
 #echo "Parsing results..."
 
